@@ -1,18 +1,25 @@
 ---
 # Display name
-title: Digit-bio IA
+title: Christèle Robert-Granié
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 
+role: DR2 INRAE, GA
 
 # Organizations/Affiliations
 organizations:
-- name: INRAE
-  url: ""
+- name: UMR GenPhySE
+  url: "https://cv.archives-ouvertes.fr/christele-robert-granie"
 
+# Short bio (displayed in user profile at end of posts)
+bio: Généticienne
+
+interests:
+- Modèles mixtes
+- Analyse de données omiques
+- Sélection génomique
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -21,10 +28,10 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:digitbio-ia@inrae.fr'
-- icon: link
-  icon_pack: fas
-  link: 
+  link: 'mailto:julien.chiquet@inrae.fr'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jchiquet
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -36,11 +43,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organisateurs
-
 ---
 
 
-### Le metaprogramme Digit-bio
-
-
-### La cellule Digit-bio IA 

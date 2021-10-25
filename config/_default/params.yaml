@@ -14,13 +14,13 @@ font_size: L
 
 site_type: Organization
 local_business_type: ''
-org_name: ''
-description: ''
+org_name: 'digitbio-ia'
+description: "Animation du programme DigitiBio autour de l'intelligence artificielle"
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: digitbio-ia@inrae.fr
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: comments

@@ -1,18 +1,25 @@
 ---
 # Display name
-title: Digit-bio IA
+title: Julien Chiquet
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 
+role: DR2 INRAE, Mathnum
 
 # Organizations/Affiliations
 organizations:
-- name: INRAE
-  url: ""
+- name: UMR MIA Paris-Saclay
+  url: "https://jchiquet.github.io"
 
+# Short bio (displayed in user profile at end of posts)
+bio: Statisticien
+
+interests:
+- Apprentissage statistique et automatique
+- Statistiques computationelles et optimisation
+- Application aux sciences du vivants
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -21,10 +28,10 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:digitbio-ia@inrae.fr'
-- icon: link
-  icon_pack: fas
-  link: 
+  link: 'mailto:julien.chiquet@inrae.fr'
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jchiquet
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -36,11 +43,6 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organisateurs
-
 ---
 
 
-### Le metaprogramme Digit-bio
-
-
-### La cellule Digit-bio IA 
