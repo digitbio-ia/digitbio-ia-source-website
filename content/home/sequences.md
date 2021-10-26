@@ -2,7 +2,7 @@
 widget: portfolio
 headless: true
 weight: 30
-title: Programmme prévisionnel
+title: Programme prévisionnel
 subtitle:
 content:
   page_type: book
