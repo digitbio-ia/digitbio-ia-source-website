@@ -7,21 +7,24 @@ main:
   - name: Accueil
     url: '/'
     weight: 10
+  - name: Programme
+    url: '#sequences'
+    weight: 20
   - name: Séquences
     url: '/sequences'
-    weight: 20
+    weight: 30
     identifier: sequences
   - name: Concepts
     url: '/sequences/concepts/'
-    weight: 20
+    weight: 30
     parent: sequences
   - name: "Tour d'horizon"
     url: '/sequences/illustrations/'
-    weight: 20
+    weight: 30
     parent: sequences
   - name: Intervenants
     url: '#people'
-    weight: 30
+    weight: 40
   - name: À propos
     url: '#about'
     weight: 60
