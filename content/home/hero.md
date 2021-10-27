@@ -7,8 +7,8 @@ hero_media: ''
 design:
   background:
     gradient_angle: 0
-    gradient_start: 'rgb(224,223,255)'
-    gradient_end: 'rgb(153,238,255)'
+    gradient_start: '#d3d3d3'
+    gradient_end: '#fff'
     text_color_light: false
 cta:
   url: sequences/
@@ -24,6 +24,7 @@ Digitbio-IA propose un cycle de webinaires visant à
 - Mettre en place un vocabulaire partagé sur les méthodes de l'IA
 - Sensibiliser aux questions liées à l'IA propres aux sciences du vivant
 - Identifier des questions biologiques pour lesquelles des développements en IA méritent d’être poursuivis
+
 </small>
 
 <!-- Ce page regroupe le programme, le matériel des conférences, le verbatim

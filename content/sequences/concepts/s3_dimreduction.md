@@ -25,7 +25,7 @@ Informations pratiques
 
 ## Intervenants
 
-Focus : 
+Focus : {{< mention "sallassonniere" >}}
 Binôme : 
 
 ## Vidéo

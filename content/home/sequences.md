@@ -53,7 +53,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Blaise Hanczar </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">Prédiction par classification supervisée : de la régression logistique au réseaux de neurones</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">Prédiction par classification supervisée : de la régression logistique au réseaux de neurones</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mars </td>
@@ -69,7 +69,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Cathy Maugis </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">Identification de structure  par clustering : du modèle de mélanges aux NN</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">Identification de structure  par clustering : du modèle de mélanges aux NN</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> mai </td>
@@ -84,7 +84,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> Stéphanie Allassonière </td>
    <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">Identification de structure  par réduction de dimension: de l’ACP au VAE</a> </td>
   </tr>
   <tr>
