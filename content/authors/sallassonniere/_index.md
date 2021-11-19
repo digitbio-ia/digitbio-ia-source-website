@@ -10,7 +10,7 @@ role: PR, U-Paris, PR[AI]RIE fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Univeristy of Paris, School of Medecine
+- name: University of Paris, School of Medecine
   url: "https://sites.google.com/site/stephanieallassonniere/"
 
 # Short bio (displayed in user profile at end of posts)

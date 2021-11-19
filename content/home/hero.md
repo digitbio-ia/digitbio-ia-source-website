@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 10
 title: > 
-    Métaprogramme DIGIT-BIO<br/>
+    <span style="color:#275662; font-weight:bold;">METAPROGRAMME DIGIT-BIO</span><br/>
     <small>Biologie numérique pour explorer et prédire le vivant</small>
 hero_media: ''
 design:
@@ -13,10 +13,13 @@ design:
     gradient_end: '#fff'
     text_color_light: false
 cta:
-  url: sequences/
-  label: Voir les séances
+  url: '#programme'
+  label: Programme détaillé
   icon_pack: fas
   icon: play
+cta_alt:
+  url: 'sequences/concepts/s0_intro'
+  label: 'Prochain séance: 31 janvier 2022'
 ---
 
 <small>
