@@ -2,7 +2,9 @@
 widget: hero
 headless: true
 weight: 10
-title: 'DIGIT-BIO: animation de la thématique IA'
+title: > 
+    Métaprogramme DIGIT-BIO<br/>
+    <small>Biologie numérique pour explorer et prédire le vivant</small>
 hero_media: ''
 design:
   background:
@@ -18,11 +20,12 @@ cta:
 ---
 
 <small>
-DIGIT-BIO-IA propose un cycle de webinaires visant à
+La cellule d'animation IA de DIGIT-BIO propose un cycle de webinaires visant à
 
 - Mettre en place un vocabulaire partagé sur les méthodes de l'IA
 - Sensibiliser aux questions liées à l'IA propres aux sciences du vivant
 - Identifier des questions biologiques pour lesquelles des développements en IA méritent d’être poursuivis
+
 </small>
 
 <!-- Ce page regroupe le programme, le matériel des conférences, le verbatim
