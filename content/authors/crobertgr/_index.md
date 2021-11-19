@@ -6,7 +6,7 @@ title: Christèle Robert-Granié
 superuser: true
 
 # Role/position
-role: DR2 INRAE, GA
+role: DR1 INRAE, GA
 
 # Organizations/Affiliations
 organizations:

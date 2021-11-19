@@ -1,0 +1,13 @@
+# Font style metadata
+name = "Inrae"
+
+# Optional Google font URL
+# google_fonts = "family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+google_fonts = "family=Raleway:wght@700;&family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
+
+# Font families
+heading_font = "Raleway"
+body_font = "Montserrat"
+nav_font = "Montserrat"
+mono_font = "Roboto Mono"
