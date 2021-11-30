@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cathys Maugis
+title: Cathy Maugis
 
 # Is this the primary user of the site?
 superuser: false
