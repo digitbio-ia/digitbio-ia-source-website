@@ -47,7 +47,7 @@ programmation scientifique sur un nombre restreint de sujets
 nécessitant des approches systémiques et interdisciplinaires pour
 répondre à nos défis scientifiques et sociétaux.
 
-**DIGIT-BIO** -- Biologie numérique pour explorer et prédire le vivant a ouvert en 2021 -- voir la <a href="https://www.inrae.fr/en/about-us/metaprogrammes#digitbio">page web du metaprogramme</a>
+**DIGIT-BIO** -- Biologie numérique pour explorer et prédire le vivant a ouvert en 2021 -- voir la <a href="https://www.inrae.fr/en/about-us/metaprogrammes#digitbio">page webpublique du metaprogramme</a> et la <a href="https://intranet.inrae.fr/metaprogrammes/Les-differents-MP/Les-MP-lances-depuis-2019/DIGIT-BIO">page intranet</a>.
 
 ### La cellule IA 
 
