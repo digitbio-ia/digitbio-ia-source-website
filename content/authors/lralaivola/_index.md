@@ -14,13 +14,7 @@ organizations:
   url: "https://pageperso.lif.univ-mrs.fr/~liva.ralaivola/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Statisticien
-
-interests:
-- Ranking and interdependent data
-- Noisy/incomplete labels
-- (Stochastic) convex optimization
-- Kernels for Chemoinformatics
+bio: Liva Ralaivola is the Head of AI Research at Criteo AI Lab where his team work on pioneering innovations in Machine Learning for computational advertising
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -46,4 +40,6 @@ user_groups:
 - Orateurs
 ---
 
+## Short bio
 
+Liva Ralaivola is the Head of AI Research at [Criteo AI Lab](https://ailab.criteo.com/) where his team work on pioneering innovations in Machine Learning for computational advertising. As the center of scientific excellence in the company, his team delivers both fundamental and applied scientific leadership through published research. The Criteo AI Lab is recognized as one of the leading AI Labs in Europe with several top-notch publications in premier conferences while constantly furthering the application of ML to the evolving field of advertising. He is also affiliated with the University of Aix-Marseille, from where he is on leave as a full professor of CS. While at Marseille, he has held several positions including director of the Laboratoire d’Informatique Fondamentale de Marseille unit (now known as LIS), junior member of IUF, and head of the AI mission in Aix-Marseille University.

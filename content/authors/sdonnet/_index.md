@@ -1,25 +1,20 @@
 ---
 # Display name
-title: Cathys Maugis
+title: Sophie Donnet
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MCF, INSA/IMT
+role: Researcher at INRAE, division Mathnum
 
 # Organizations/Affiliations
 organizations:
-- name: INSA Toulouse & IMT
-  url: "https://perso.math.univ-toulouse.fr/maugis/"
+- name: MIA Paris, Université Paris-Saclay, AgroParisTech, INRAE
+  url: "https://sophiedonnet.github.io/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cathy Maugis-Rabusseau est maitre de conférences à l’INSA Toulouse, membre de l’Institut de Mathématiques de Toulouse
-
-interests:
-- Modèles de mélanges
-- Clustering
-- Apprentissage supervisé
+bio: Sophie Donnet est chercheuse de l'INRAE dans l'unité MIA Paris-Saclay depuis 2013 après avoir été Maître de conférences à l'Univ. Paris Dauphine
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,4 +42,11 @@ user_groups:
 
 ## Short bio
 
-Cathy Maugis-Rabusseau est maitre de conférences à l’INSA Toulouse, membre de l’Institut de Mathématiques de Toulouse. Elle s’intéresse à des méthodes de classification non supervisée et de sélection de variables, motivées en particulier par l’analyse de données transcriptomiques (microarrays, RNA-seq, single-cell RNA-seq). Ses travaux portent également sur des propriétés théoriques des modèles de mélange (pour l’estimation de densité, tests, …).
+Sophie Donnet est chercheuse de l'INRAE dans l'unité MIA Paris-Saclay
+depuis 2013 après avoir été Maître de conférences à l'Univ. Paris
+Dauphine. Elle travaille dans le domaine de la modélisation et
+l'apprentissage statistique pour les sciences du vivant et l'écologie
+avec une spécialisation pour les données d'interactions.  Dans ce
+contexte, elle collabore avec des chercheurs issus de domaines aussi
+variés que l'écologie, la biologie des plantes, l'ethnologie ou la
+géographie...
