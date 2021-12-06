@@ -13,13 +13,13 @@ design:
     gradient_end: '#fff'
     text_color_light: false
 cta:
-  url: '#programme'
-  label: Programme détaillé
+  url: 'sequences/concepts/s0_intro'
+  label: 'Prochain séance: 31 janvier 2022'
   icon_pack: fas
   icon: play
 cta_alt:
-  url: 'sequences/concepts/s0_intro'
-  label: 'Prochain séance: 31 janvier 2022'
+  url: 'https://form.jotform.com/213273638128053'
+  label: "S'inscrire"
 ---
 
 <small>

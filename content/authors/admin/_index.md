@@ -49,6 +49,8 @@ répondre à nos défis scientifiques et sociétaux.
 
 **DIGIT-BIO** -- Biologie numérique pour explorer et prédire le vivant a ouvert en 2021 -- voir la <a href="https://www.inrae.fr/en/about-us/metaprogrammes#digitbio">page webpublique du metaprogramme</a> et la <a href="https://intranet.inrae.fr/metaprogrammes/Les-differents-MP/Les-MP-lances-depuis-2019/DIGIT-BIO">page intranet</a>.
 
+S'abonner à la liste de diffusion: https://groupes.renater.fr/sympa/info/digitbio
+
 ### La cellule IA 
 
 La cellule DIGIT-BIO-IA est chargée de l'animation de la thématique IA au sein de
