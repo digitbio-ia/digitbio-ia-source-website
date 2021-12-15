@@ -40,7 +40,7 @@ user_groups:
 - Orateurs
 ---
 
-## Short bio
+## Biographie courte
 
 Sophie Donnet est chercheuse de l'INRAE dans l'unité MIA Paris-Saclay
 depuis 2013 après avoir été Maître de conférences à l'Univ. Paris

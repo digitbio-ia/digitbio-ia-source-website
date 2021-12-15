@@ -14,12 +14,7 @@ organizations:
   url: "https://jchiquet.github.io"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Statisticien
-
-interests:
-- Apprentissage statistique et automatique
-- Statistiques computationelles et optimisation
-- Application aux sciences du vivants
+bio: Julien Chiquet est directeur de recherche en apprentissage statistique au département Mathnum d'INRAE. Il exerce sa recherche dans l'UMR MIA Paris-Saclay à AgroParisTech
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,4 +40,7 @@ user_groups:
 - Organisateurs
 ---
 
+## Biographie courte
+
+Julien Chiquet est directeur de recherche au département Mathnum d'INRAE. Il exerce sa recherche dans l'[UMR Mathématique et Informatique Appliquées Paris-Saclay](https://www6.inrae.fr/mia-paris) à AgroParisTech, qu'il dirige depuis peu. Ses spécialités sont l'apprentissage automatique et les statistiques computationelles appliquées aux sciences du vivant (en particulier en génomique et en écologie). Il est éditeur en chef de [Computo](https://computo.sfds.asso.fr/), un nouveau journal de la [société française de statistique](https://www.sfds.asso.fr/) promouvant la reproductibilité, et professeur à temps incomplet à l'école polytechnique.
 

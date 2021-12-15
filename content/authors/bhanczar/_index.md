@@ -14,24 +14,7 @@ organizations:
   url: "https://sites.google.com/site/bhanczarhomepage/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Informaticien
-
-interests:
-- "Machine learning: Apprentissage supervisée, Deep learning, Evaluation de performances, Réduction de dimension, Biclustering, methodes d'ensemble, Classification avec rejet"
-- "Applications: Médecine personnalisée, Données omiques, Système de
-diagnostique, transports autonomes"
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:julien.chiquet@inrae.fr'
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/jchiquet
+bio: Blaise Hanczar est professeur en informatique au laboratoire IBISC de l’université Paris-Saclay (Univ. Evry). 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -45,4 +28,6 @@ user_groups:
 - Orateurs
 ---
 
-[Page personnelle](https://sites.google.com/site/bhanczarhomepage/)
+## Biographie courte
+
+Blaise Hanczar est professeur au laboratoire IBISC de l’université Paris-Saclay (Univ. Evry). Ses recherches se concentrent autour de l'apprentissage automatique, en particulier l'apprentissage profond, l'interprétation de modèle, la classification avec rejet et l'apprentissage par transfert. Son principal domaine d'application concerne l'analyse de données « omiques » et la médecine personnalisée.

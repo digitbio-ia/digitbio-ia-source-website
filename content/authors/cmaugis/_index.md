@@ -14,12 +14,7 @@ organizations:
   url: "https://perso.math.univ-toulouse.fr/maugis/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cathy Maugis-Rabusseau est maitre de conférences à l’INSA Toulouse, membre de l’Institut de Mathématiques de Toulouse
-
-interests:
-- Modèles de mélanges
-- Clustering
-- Apprentissage supervisé
+bio: Cathy Maugis-Rabusseau est maîtresse de conférences à l’INSA Toulouse, membre de l’Institut de Mathématiques de Toulouse
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,6 +40,6 @@ user_groups:
 - Orateurs
 ---
 
-## Short bio
+## Biographie courte
 
-Cathy Maugis-Rabusseau est maitre de conférences à l’INSA Toulouse, membre de l’Institut de Mathématiques de Toulouse. Elle s’intéresse à des méthodes de classification non supervisée et de sélection de variables, motivées en particulier par l’analyse de données transcriptomiques (microarrays, RNA-seq, single-cell RNA-seq). Ses travaux portent également sur des propriétés théoriques des modèles de mélange (pour l’estimation de densité, tests, …).
+Cathy Maugis-Rabusseau est maîtresse de conférences à l’INSA Toulouse, membre de l’Institut de Mathématiques de Toulouse. Elle s’intéresse à des méthodes de classification non supervisée et de sélection de variables (modèles de mélanges, clustering), motivées en particulier par l’analyse de données transcriptomiques (microarrays, RNA-seq, single-cell RNA-seq). Ses travaux portent également sur des propriétés théoriques des modèles de mélange (pour l’estimation de densité, tests, ...).
