@@ -1,6 +1,5 @@
 ---
 title: 'Machine Learning pour la classification supervisée'
-linkTitle: 'Classification supervisée'
 summary: "Depuis les approches classiques (régression) aux approches d'apprentissage profond (CNN)."
 date: '2021-01-01'
 type: book
@@ -13,22 +12,25 @@ tags:
   
 ---
 
+
 {{< callout note >}}
 Informations pratiques
 
-{{< icon name="clock" pack="fas" >}} mars 2022
+La séance aura lieu en 100% distanciel
 
-{{< icon name="map-marker-alt" pack="fas" >}} lieu
+{{< icon name="clock" pack="fas" >}} 7 avril 2022 après-midi (14:00 - 17:00)
 
-{{< icon name="video" pack="fas" >}} lien visio
+{{< icon name="video" pack="fas" >}} le lien visio sera transmit aux participants inscrits
+
 
 {{< /callout >}}
+
 
 ## Intervenants
 
 Focus : {{< mention "bhanczar" >}}
 
-Binôme : 
+Binôme : {{< mention "emoebel" >}}, {{< mention "ffatmaoui" >}}
 
 ## Vidéo
 
@@ -36,9 +38,3 @@ Binôme :
 
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
-## Quiz, discussion
-
-{{< spoiler text="Question" >}}
-
-On en parle
-{{< /spoiler >}}

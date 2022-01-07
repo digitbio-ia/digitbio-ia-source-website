@@ -1,6 +1,6 @@
 ---
-title: 'Natural Language Processing, Web sémantique'
-linkTitle: NLP
+title: 'Natural Language Processing'
+summary: "à venir"
 date: '2021-01-01'
 type: book
 weight: 50
@@ -34,9 +34,3 @@ Binôme :
 
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
-## Quiz, discussion
-
-{{< spoiler text="Question" >}}
-
-On en parle
-{{< /spoiler >}}

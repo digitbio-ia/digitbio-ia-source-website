@@ -1,6 +1,5 @@
 ---
 title: 'Identification de structures par classification non-supervisée'
-linkTitle: Classification non-supervisée
 summary: 'Des modèles de mélanges aux approches par apprentissage profond'
 date: '2021-01-01'
 type: book
@@ -13,21 +12,24 @@ tags:
   
 ---
 
+
 {{< callout note >}}
 Informations pratiques
 
-{{< icon name="clock" pack="fas" >}} mai 2022 
+La séance aura lieu en 100% distanciel
 
-{{< icon name="map-marker-alt" pack="fas" >}} lieu
+{{< icon name="clock" pack="fas" >}} 23 mai 2022 après-midi (14:00 - 17:00)
 
-{{< icon name="video" pack="fas" >}} lien visio
+{{< icon name="video" pack="fas" >}} le lien visio sera transmit aux participants inscrits
+
 
 {{< /callout >}}
 
 ## Intervenants
 
 Focus : {{< mention "cmaugis" >}}
-Binôme : 
+
+Binôme : {{< mention "sdonnet" >}}, {{< mention "fmassol" >}}
 
 ## Vidéo
 
@@ -35,9 +37,3 @@ Binôme :
 
 <!-- {{< youtube rfscVS0vtbw >}} -->
 
-## Quiz, discussion
-
-{{< spoiler text="Question" >}}
-
-On en parle
-{{< /spoiler >}}

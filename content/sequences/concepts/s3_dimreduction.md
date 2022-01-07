@@ -1,6 +1,6 @@
 ---
 title: 'Identification de structures par réduction de dimension'
-linkTitle: "De l'analyse en composante principale aux auto-encoders variationnels"
+summary: "De l'analyse en composantes principales aux auto-encoders variationnels"
 date: '2021-01-01'
 type: book
 weight: 40

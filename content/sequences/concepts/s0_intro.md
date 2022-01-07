@@ -1,6 +1,5 @@
 ---
-title: 'Séance introductive'
-subtitle: "l'IA sous toute ses formes"
+title: "Introduction à l'IA et au Machine Learning"
 summary: 'Un panorama en IA en machine-learning, avec une ouverture sur le sciences du vivant'
 author: lralaivola
 date: '2021-01-01'
@@ -22,13 +21,14 @@ L'objective de cette séance introductive est
 {{< callout note >}}
 Informations pratiques
 
-La séance aura lieu simultanément en présence et à distance
+La séance aura lieu en 100% distanciel
 
 {{< icon name="clock" pack="fas" >}} 31 janvier 2022 après-midi (14:00 - 17:00)
 
-{{< icon name="map-marker-alt" pack="fas" >}} lieu: <a href="https://www.le253.fr/amphitheatre">Le 253), Paris 10ème</a>
+{{< icon name="map-marker-alt" pack="fas" >}} <a href="https://form.jotform.com/213273638128053">S'inscrire</a>
 
-{{< icon name="video" pack="fas" >}} lien visio (à venir)
+{{< icon name="video" pack="fas" >}} le lien visio sera transmit aux participants inscrits
+
 
 {{< /callout >}}
 

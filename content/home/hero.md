@@ -14,7 +14,7 @@ design:
     text_color_light: false
 cta:
   url: 'sequences/concepts/s0_intro'
-  label: 'Prochain séance: 31 janvier 2022'
+  label: 'Prochaine séance: 31 janvier 2022'
   icon_pack: fas
   icon: play
 cta_alt:

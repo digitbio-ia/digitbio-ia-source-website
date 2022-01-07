@@ -42,16 +42,20 @@ user_groups:
 
 ### Le metaprogramme DIGIT-BIO
 
-Les métaprogrammes INRAE constituent un dispositif d’animation et de
+Les métaprogrammes INRAE sont des dispositifs d’animation et de
 programmation scientifique sur un nombre restreint de sujets
-nécessitant des approches systémiques et interdisciplinaires pour
+nécessitant des approches systeìmiques et interdisciplinaires pour
 répondre à nos défis scientifiques et sociétaux.
 
-**DIGIT-BIO** -- Biologie numérique pour explorer et prédire le vivant a ouvert en 2021 -- voir la <a href="https://www.inrae.fr/en/about-us/metaprogrammes#digitbio">page webpublique du metaprogramme</a> et la <a href="https://intranet.inrae.fr/metaprogrammes/Les-differents-MP/Les-MP-lances-depuis-2019/DIGIT-BIO">page intranet</a>.
+En savoir plus sur les Métaprogrammes : https://www.inrae.fr/nous-connaitre/metaprogrammes
 
-S'abonner à la liste de diffusion: https://groupes.renater.fr/sympa/info/digitbio
+**DIGIT-BIO** -- Biologie numérique pour explorer et prédire le vivant a été lancé en mars 2021
+
+Voir la <a href="https://www.inrae.fr/en/about-us/metaprogrammes#digitbio">page web publique du metaprogramme</a> et la <a href="https://intranet.inrae.fr/metaprogrammes/Les-differents-MP/Les-MP-lances-depuis-2019/DIGIT-BIO">page intranet</a>.
+
+S'abonner à la liste de diffusion de Digit-Bio: https://groupes.renater.fr/sympa/info/digitbio
 
 ### La cellule IA 
 
 La cellule DIGIT-BIO-IA est chargée de l'animation de la thématique IA au sein de
-ce meta-programme.
+ce metaprogramme.

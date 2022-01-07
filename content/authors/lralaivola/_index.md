@@ -37,7 +37,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Orateurs
+- 'Séance 0: Introduction à l’IA et au Machine Learning'
 ---
 
 ## Short bio

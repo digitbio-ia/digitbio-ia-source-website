@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Sophie Donnet
+title: François Massol
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Researcher at INRAE, division Mathnum
+role: Researcher at CNRS
 
 # Organizations/Affiliations
 organizations:
-- name: MIA Paris, Université Paris-Saclay, AgroParisTech, INRAE
-  url: "https://sophiedonnet.github.io/"
+- name: CIIL CNRS Lille
+  url: "https://sites.google.com/a/polytechnique.org/francoismassol/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Sophie Donnet est chercheuse de l'INRAE dans l'unité MIA Paris-Saclay depuis 2013 après avoir été Maître de conférences à l'Univ. Paris Dauphine
+bio: François Massol is Senior Researcher in quantitative ecology.
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,11 +43,3 @@ user_groups:
 
 ## Biographie courte
 
-Sophie Donnet est chercheuse de l'INRAE dans l'unité MIA Paris-Saclay
-depuis 2013 après avoir été Maître de conférences à l'Univ. Paris
-Dauphine. Elle travaille dans le domaine de la modélisation et
-l'apprentissage statistique pour les sciences du vivant et l'écologie
-avec une spécialisation pour les données d'interactions.  Dans ce
-contexte, elle collabore avec des chercheurs issus de domaines aussi
-variés que l'écologie, la biologie des plantes, l'ethnologie ou la
-géographie...

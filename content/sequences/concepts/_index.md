@@ -23,12 +23,3 @@ Des séances d'une demi-journée structurées comme suit:
 
 {{< list_children >}}
 
-## FAQs
-
-{{< spoiler text="Quels sont les prérequis?" >}}
-Aucun prérequis n'est nécessaire pour la première séance.
-{{< /spoiler >}}
-
-{{< spoiler text="À quelle fréquence les?" >}}
-Continuously, at your own pace.
-{{< /spoiler >}}

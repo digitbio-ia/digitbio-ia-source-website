@@ -12,7 +12,7 @@ design:
    <th style="text-align:left;"> Date </th>
    <th style="text-align:left;">  </th>
    <th style="text-align:left;">  </th>
-   <th style="text-align:left;">  </th>
+   <th style="text-align:left;"> ieu </th>
    <th style="text-align:left;"> Orateur </th>
    <th style="text-align:left;"> Titre </th>
   </tr>
@@ -21,98 +21,98 @@ design:
   <tr>
    <td style="text-align:left;"> 31/01/22 </td>
    <td style="text-align:left;"> 14:00 – 17:00 </td>
-   <td style="text-align:left;"> 253 (Paris) </td>
+   <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 0</span> </td>
-   <td style="text-align:left;"> <a href="authors/"></a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s0_intro">Séance introductive</a> </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s0_intro">Séance introductive</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> 14:00 – 14:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #FF0000 !important;">Ouverture</span> </td>
-   <td style="text-align:left;"> <a href="authors/admin">Organisateurs</a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s0_intro">Digit-BIO &amp; IA</a> </td>
+   <td style="text-align:left;"> Organisateurs </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s0_intro">Digit-BIO &amp; IA</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 14:30 – 16:00 </td>
+   <td style="text-align:left;"> 14:30 – 17:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
-   <td style="text-align:left;"> <a href="authors/lralaivola">Liva Ravailova</a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s0_intro">Introduction à l’IA et au machine learning</a> </td>
+   <td style="text-align:left;"> Liva Ravailova </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s0_intro">Introduction à l’IA et au machine learning</a> </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> mars </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 07/04/22 </td>
+   <td style="text-align:left;"> 14:00 – 17:00 </td>
    <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 1</span> </td>
-   <td style="text-align:left;"> <a href="authors/"></a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">Prédiction par classification supervisée</a> </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s1_classification">Machine learning pour la classification supervisée</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 14:00 – 14:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
-   <td style="text-align:left;"> <a href="authors/bhanczar">Blaise Hanczar</a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">De la régression logistique au réseaux de neurones</a> </td>
+   <td style="text-align:left;"> Blaise Hanczar </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s1_classification">De la régression logistique au réseaux de neurones</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 14:30 – 17:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
-   <td style="text-align:left;"> <a href="authors/"></a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">TBA</a> </td>
+   <td style="text-align:left;"> Fadwa Fatmaoui&nbsp;, Emmanuel Moebel </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s1_classification">TBA</a> </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> mai </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 23/05/22 </td>
+   <td style="text-align:left;"> 14:00 – 17:00 </td>
    <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 2</span> </td>
-   <td style="text-align:left;"> <a href="authors/"></a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">Identification de structure  par clustering</a> </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s2_clustering">Identification de structure  par classification non-supervisée</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 14:00 – 14:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
-   <td style="text-align:left;"> <a href="authors/cmaugis">Cathy Maugis</a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">Du modèle de mélanges aux NN</a> </td>
+   <td style="text-align:left;"> Cathy Maugis </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s2_clustering">Du modèle de mélanges aux réseaux de neurones</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 14:30 – 17:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
-   <td style="text-align:left;"> <a href="authors/"></a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">TBA</a> </td>
+   <td style="text-align:left;"> Sophie Donnet, François Massol </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s2_clustering">TBA</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> juillet </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 3</span> </td>
-   <td style="text-align:left;"> <a href="authors/"></a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">Identification de structure  par réduction de dimension</a> </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s3_dimreduction">Identification de structure  par réduction de dimension</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
-   <td style="text-align:left;"> <a href="authors/sallassonniere">Stéphanie Allassonière</a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">De l’ACP au VAE</a> </td>
+   <td style="text-align:left;"> Stéphanie Allassonnière </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s3_dimreduction">De l’ACP au VAE</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
-   <td style="text-align:left;"> <a href="authors/"></a> </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">TBA</a> </td>
+   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> <a href="http://localhost:18314/session/viewhtml1cd80435d2c72/sequences/concepts/s3_dimreduction">TBA</a> </td>
   </tr>
 </tbody>
-</table>
+</table> 

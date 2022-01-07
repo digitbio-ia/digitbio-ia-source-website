@@ -1,13 +1,13 @@
 sequence,seance,author,date,heure,lieu,type,orateur,titre
-concepts,s0_intro,,31/01/22,14:00 – 17:00, 253 (Paris),Séance 0,,Séance introductive
+concepts,s0_intro,,31/01/22,14:00 – 17:00,distanciel,Séance 0,,Séance introductive
 concepts,s0_intro,admin,,14:00 – 14:30,,Ouverture,Organisateurs,Digit-BIO & IA
-concepts,s0_intro,lralaivola,,14:30 – 16:00,,Cours,Liva Ravailova,Introduction à l’IA et au machine learning
-concepts,s1_classification,,mars,,distanciel,Séance 1,,Prédiction par classification supervisée
-concepts,s1_classification,bhanczar,,,,Cours,Blaise Hanczar,De la régression logistique au réseaux de neurones
-concepts,s1_classification,,,,,Étude de cas,,TBA
-concepts,s2_clustering,,mai,,distanciel,Séance 2,,Identification de structure  par clustering
-concepts,s2_clustering,cmaugis,,,,Cours,Cathy Maugis,Du modèle de mélanges aux NN
-concepts,s2_clustering,,,,,Étude de cas,,TBA
+concepts,s0_intro,lralaivola,,14:30 – 17:30,,Cours,Liva Ravailova,Introduction à l’IA et au machine learning
+concepts,s1_classification,,07/04/22,14:00 – 17:00,distanciel,Séance 1,,Machine learning pour la classification supervisée
+concepts,s1_classification,bhanczar,,14:00 – 14:30,,Cours,Blaise Hanczar,De la régression logistique au réseaux de neurones
+concepts,s1_classification,,,14:30 – 17:30,,Étude de cas,"Fadwa Fatmaoui , Emmanuel Moebel",TBA
+concepts,s2_clustering,,23/05/22,14:00 – 17:00,distanciel,Séance 2,,Identification de structure  par classification non-supervisée
+concepts,s2_clustering,cmaugis,,14:00 – 14:30,,Cours,Cathy Maugis,Du modèle de mélanges aux réseaux de neurones
+concepts,s2_clustering,,,14:30 – 17:30,,Étude de cas,"Sophie Donnet, François Massol",TBA
 concepts,s3_dimreduction,,juillet,,distanciel,Séance 3,,Identification de structure  par réduction de dimension
-concepts,s3_dimreduction,sallassoniere,,,,Cours,Stéphanie Allassonière,De l’ACP au VAE
+concepts,s3_dimreduction,sallassoniere,,,,Cours,Stéphanie Allassonnière,De l’ACP au VAE
 concepts,s3_dimreduction,,,,,Étude de cas,,TBA

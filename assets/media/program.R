@@ -29,10 +29,10 @@ print_function <- function(df){
 program <- 
   read.csv("program.csv", sep = ",", header = TRUE) %>% 
   mutate(link_sequence = paste("sequences", sequence, seance, sep = "/")) %>%
-  mutate(link_intervenant = paste("authors", author, sep = "/")) %>% 
+  # mutate(link_intervenant = paste("authors", author, sep = "/")) %>% 
   mutate(titre = paste0("<a href=", link_sequence,">", titre , "</a>")) %>% 
-  mutate(orateur = paste0("<a href=", link_intervenant,">", orateur , "</a>")) %>% 
-    dplyr::select(-link_sequence, -link_intervenant, -seance, -sequence, -author) 
+  # mutate(orateur = paste0("<a href=", link_intervenant,">", orateur , "</a>")) %>% 
+   dplyr::select(-link_sequence, -seance, -sequence, -author) 
 
 print_function(program) %>% knitr::render_markdown()
 
