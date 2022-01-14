@@ -6,7 +6,7 @@ title: Emmanuel Moebel
 superuser: false
 
 # Role/position
-role: ""
+role: "Ingénieur de recherche en traitement d'image"
 
 # Organizations/Affiliations
 organizations:
@@ -30,4 +30,6 @@ user_groups:
 
 ## Biographie courte
 
+Emmanuel Moebel est actuellement ingénieur de recherche à l'Inria Rennes, où il a également accompli sa thèse doctorale sous la supervision de Charles Kervrann, au sein de l'équipe Serpico. Son domaine d'application est le traitement d'images biologiques, où il explore notamment le deep learning, le débruitage et la restauration d'artefacts d'imagerie. Ses travaux portent sur l'analyse d'images de cryo-tomographie électronique et de microscopie à fluorescence. 
 
+ 
