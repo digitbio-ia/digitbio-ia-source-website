@@ -18,7 +18,7 @@ cta:
   icon_pack: fas
   icon: play
 cta_alt:
-  url: 'https://form.jotform.com/213273638128053'
+  url: 'https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-0-introduction-a-lia-et-au-machine-learning?type=detailed'
   label: "S'inscrire"
 ---
 
