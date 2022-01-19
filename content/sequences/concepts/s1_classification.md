@@ -16,7 +16,7 @@ tags:
 {{< callout note >}}
 Informations pratiques
 
-La séance aura lieu en 100% distanciel
+La séance aura lieu en hybride, la partie présentielle étant [au 253](http://www.le253.fr)
 
 {{< icon name="clock" pack="fas" >}} 7 avril 2022 après-midi (14:00 - 17:00)
 

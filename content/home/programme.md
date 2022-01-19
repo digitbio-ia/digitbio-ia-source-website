@@ -36,7 +36,7 @@ design:
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 14:30 – 17:30 </td>
+   <td style="text-align:left;"> 14:30 – 17:00 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Liva Ravailova </td>
@@ -45,25 +45,25 @@ design:
   <tr>
    <td style="text-align:left;"> 07/04/22 </td>
    <td style="text-align:left;"> 14:00 – 17:00 </td>
-   <td style="text-align:left;"> distanciel </td>
+   <td style="text-align:left;"> hybride </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 1</span> </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">Machine learning pour la classification supervisée</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 14:00 – 14:30 </td>
+   <td style="text-align:left;"> 14:00 – 15:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Blaise Hanczar </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">De la régression logistique au réseaux de neurones</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">De la régression logistique aux réseaux de neurones</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 14:30 – 17:30 </td>
+   <td style="text-align:left;"> 16:00 – 17:00 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
-   <td style="text-align:left;"> Fadwa Fatmaoui&nbsp;, Emmanuel Moebel </td>
+   <td style="text-align:left;"> Fadwa Fatmaoui , Emmanuel Moebel </td>
    <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">TBA</a> </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ design:
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 14:00 – 14:30 </td>
+   <td style="text-align:left;"> 14:00 – 15:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Cathy Maugis </td>
@@ -84,14 +84,14 @@ design:
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> 14:30 – 17:30 </td>
+   <td style="text-align:left;"> 16:00 – 17:00 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
    <td style="text-align:left;"> Sophie Donnet, François Massol </td>
    <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">TBA</a> </td>
   </tr>
-  <tr> 
-  <td style="text-align:left;"> juillet </td>
+  <tr>
+   <td style="text-align:left;"> juillet </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 3</span> </td>
@@ -115,4 +115,4 @@ design:
    <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">TBA</a> </td>
   </tr>
 </tbody>
-</table> 
+</table>
