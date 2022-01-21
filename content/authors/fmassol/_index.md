@@ -43,3 +43,4 @@ user_groups:
 
 ## Biographie courte
 
+François Massol est directeur de recherche du CNRS dans l'unité CIIL depuis 2020, après avoir été successivement chercheur à l'Irstea Aix-en-Provence jusqu'en 2012, chercheur CNRS au CEFE à Montpellier jusqu'en 2014 puis dans l'unité EEP à Lille. Ses domaines de recherche principaux couvrent la modélisation en écologie et évolution, notamment les systèmes spatialisés, la diversité, le fonctionnement et la complexité des réseaux d'interactions, et l'évolution des traits des espèces en interaction. Autour de l'étude des réseaux d'interactions écologiques, il collabore depuis plusieurs années avec des chercheurs en mathématiques et statistiques, aussi bien sur les modèles théoriques que sur les méthodes d'analyse des données de réseaux écologiques.
