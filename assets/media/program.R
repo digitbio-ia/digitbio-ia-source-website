@@ -22,7 +22,7 @@ print_function <- function(df){
       background = get_color(type)
     )) %>% 
   kableExtra::kbl(format = "html", escape = FALSE,
-             col.names = c("Date", "", "", "ieu", "Orateur", "Titre")) %>%
+             col.names = c("Date", "", "", "Lieu", "Orateur", "Titre")) %>%
   kableExtra::kable_classic("striped")
 }
 

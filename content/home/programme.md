@@ -12,7 +12,7 @@ design:
    <th style="text-align:left;"> Date </th>
    <th style="text-align:left;">  </th>
    <th style="text-align:left;">  </th>
-   <th style="text-align:left;"> ieu </th>
+   <th style="text-align:left;"> Lieu </th>
    <th style="text-align:left;"> Orateur </th>
    <th style="text-align:left;"> Titre </th>
   </tr>
@@ -40,7 +40,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Liva Ravailova </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s0_intro">Introduction à l’IA et au machine learning</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s0_intro">Introduction à l&#39;IA et au machine learning</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 07/04/22 </td>
@@ -64,7 +64,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
    <td style="text-align:left;"> Fadwa Fatmaoui , Emmanuel Moebel </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">TBA</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s1_classification">Le deep learning et la cryo-tomographie électronique permettent l&#39;identification et la localisation de nucléosomes in situ</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 23/05/22 </td>
@@ -116,3 +116,4 @@ design:
   </tr>
 </tbody>
 </table>
+

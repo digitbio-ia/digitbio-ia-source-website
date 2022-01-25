@@ -30,7 +30,11 @@ La séance aura lieu en hybride, la partie présentielle étant [au 253](http://
 
 Focus : {{< mention "bhanczar" >}}
 
+*"De la régression logistique aux réseaux de neurones"*
+
 Binôme : {{< mention "emoebel" >}}, {{< mention "ffatmaoui" >}}
+
+*"Le deep learning et la cryo-tomographie électronique permettent l'identification et la localisation de nucléosomes in situ"*
 
 ## Vidéo
 

@@ -1,10 +1,10 @@
 sequence,seance,author,date,heure,lieu,type,orateur,titre
 concepts,s0_intro,,31/01/22,14:00 – 17:00,distanciel,Séance 0,,Séance introductive
 concepts,s0_intro,admin,,14:00 – 14:30,,Ouverture,Organisateurs,Digit-BIO & IA
-concepts,s0_intro,lralaivola,,14:30 – 17:00,,Cours,Liva Ravailova,Introduction à l’IA et au machine learning
+concepts,s0_intro,lralaivola,,14:30 – 17:00,,Cours,Liva Ravailova,Introduction à l'IA et au machine learning
 concepts,s1_classification,,07/04/22,14:00 – 17:00,hybride,Séance 1,,Machine learning pour la classification supervisée
 concepts,s1_classification,bhanczar,,14:00 – 15:30,,Cours,Blaise Hanczar,De la régression logistique aux réseaux de neurones
-concepts,s1_classification,,,16:00 – 17:00,,Étude de cas,"Fadwa Fatmaoui , Emmanuel Moebel",TBA
+concepts,s1_classification,,,16:00 – 17:00,,Étude de cas,"Fadwa Fatmaoui , Emmanuel Moebel",Le deep learning et la cryo-tomographie électronique permettent l'identification et la localisation de nucléosomes in situ
 concepts,s2_clustering,,23/05/22,14:00 – 17:00,distanciel,Séance 2,,Identification de structure  par classification non-supervisée
 concepts,s2_clustering,cmaugis,,14:00 – 15:30,,Cours,Cathy Maugis,Du modèle de mélanges aux réseaux de neurones
 concepts,s2_clustering,,,16:00 – 17:00,,Étude de cas,"Sophie Donnet, François Massol",TBA
