@@ -1,5 +1,5 @@
 ---
-title: 'Natural Language Processing'
+title: 'Natural Language Processing et Web sémantique'
 summary: "à venir"
 date: '2021-01-01'
 type: book

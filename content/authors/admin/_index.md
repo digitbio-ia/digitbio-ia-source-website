@@ -44,7 +44,7 @@ user_groups:
 
 Les métaprogrammes INRAE sont des dispositifs d’animation et de
 programmation scientifique sur un nombre restreint de sujets
-nécessitant des approches systeìmiques et interdisciplinaires pour
+nécessitant des approches systémiques et interdisciplinaires pour
 répondre à nos défis scientifiques et sociétaux.
 
 En savoir plus sur les Métaprogrammes : https://www.inrae.fr/nous-connaitre/metaprogrammes
