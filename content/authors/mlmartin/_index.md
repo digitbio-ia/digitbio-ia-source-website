@@ -45,4 +45,6 @@ user_groups:
 - Organisateurs
 ---
 
-
+Marie-Laure Martin est directrice de recherche au département [Biologie et Amélioration des Plantes](https://www.inrae.fr/departements/bap) (BAP) d’INRAE. Elle anime l'équipe [Réseaux génomiques](https://ips2.u-psud.fr/fr/recherche/pmin-departement-interactions-plantes-micro-organismes-et-reseaux/gnet-reseaux-genomiques.html) de l’IPS2 et est membre de l'équipe Solstis de l'[UMR MIA Paris-Saclay](https://www6.inrae.fr/mia-paris/).
+À l'interface entre modélisation statistique et biologie végétale, ses travaux de recherche visent à comprendre la réponse aux stress des plantes par des analyses et des méta-analyses de données omiques afin de proposer des stratégies
+nouvelles de sélection végétale en période de changement climatique.

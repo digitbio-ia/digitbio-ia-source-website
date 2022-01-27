@@ -88,7 +88,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
    <td style="text-align:left;"> Sophie Donnet, François Massol </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">TBA</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">Apprentissage non supervisé de structures de réseaux écologiques</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;"> juillet </td>
@@ -96,7 +96,7 @@ design:
    <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 3</span> </td>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">Identification de structure  par réduction de dimension</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">Identification de structure par réduction de dimension</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
@@ -111,9 +111,8 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
-   <td style="text-align:left;">  </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">TBA</a> </td>
+   <td style="text-align:left;"> Olivier Gandrillon, Franck Picard </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction"> TBA</a> </td>
   </tr>
 </tbody>
 </table>
-

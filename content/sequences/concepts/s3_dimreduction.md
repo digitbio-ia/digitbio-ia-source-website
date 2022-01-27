@@ -26,17 +26,12 @@ Informations pratiques
 ## Intervenants
 
 Focus : {{< mention "sallassonniere" >}}
-Binôme : 
+
+Binôme : {{< mention "ogandrillon" >}}, {{< mention "fpicard" >}}
+
 
 ## Vidéo
 
 à venir
 
 <!-- {{< youtube rfscVS0vtbw >}} -->
-
-## Quiz, discussion
-
-{{< spoiler text="Question" >}}
-
-On en parle
-{{< /spoiler >}}

@@ -7,7 +7,7 @@ concepts,s1_classification,bhanczar,,14:00 – 15:30,,Cours,Blaise Hanczar,De la
 concepts,s1_classification,,,16:00 – 17:00,,Étude de cas,"Fadwa Fatmaoui , Emmanuel Moebel",Le deep learning et la cryo-tomographie électronique permettent l'identification et la localisation de nucléosomes in situ
 concepts,s2_clustering,,23/05/22,14:00 – 17:00,distanciel,Séance 2,,Identification de structure  par classification non-supervisée
 concepts,s2_clustering,cmaugis,,14:00 – 15:30,,Cours,Cathy Maugis,Du modèle de mélanges aux réseaux de neurones
-concepts,s2_clustering,,,16:00 – 17:00,,Étude de cas,"Sophie Donnet, François Massol",TBA
-concepts,s3_dimreduction,,juillet,,distanciel,Séance 3,,Identification de structure  par réduction de dimension
+concepts,s2_clustering,,,16:00 – 17:00,,Étude de cas,"Sophie Donnet, François Massol",Apprentissage non supervisé de structures de réseaux écologiques
+concepts,s3_dimreduction,,juillet,,distanciel,Séance 3,,Identification de structure par réduction de dimension
 concepts,s3_dimreduction,sallassoniere,,,,Cours,Stéphanie Allassonnière,De l’ACP au VAE
-concepts,s3_dimreduction,,,,,Étude de cas,,TBA
+concepts,s3_dimreduction,,,,,Étude de cas,"Olivier Gandrillon, Franck Picard", TBA

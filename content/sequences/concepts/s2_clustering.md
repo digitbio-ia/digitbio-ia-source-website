@@ -29,7 +29,11 @@ La séance aura lieu en 100% distanciel
 
 Focus : {{< mention "cmaugis" >}}
 
+*"Du modèle de mélanges aux réseaux de neurones"*
+    
 Binôme : {{< mention "sdonnet" >}}, {{< mention "fmassol" >}}
+
+*"Apprentissage non supervisé de structures de réseaux écologiques"*
 
 ## Vidéo
 
