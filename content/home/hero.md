@@ -13,12 +13,12 @@ design:
     gradient_end: '#fff'
     text_color_light: false
 cta:
-  url: 'sequences/concepts/s0_intro'
-  label: 'Prochaine séance: 31 janvier 2022'
+  url: 'sequences/concepts/s1_classification'
+  label: 'Prochaine séance: 7 avril 2022'
   icon_pack: fas
   icon: play
 cta_alt:
-  url: 'https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-0-introduction-a-lia-et-au-machine-learning?type=detailed'
+  url: 'https://form.jotform.com/220392697469369'
   label: "S'inscrire"
 ---
 

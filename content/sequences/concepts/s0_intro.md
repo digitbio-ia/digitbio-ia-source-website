@@ -25,8 +25,6 @@ La séance aura lieu en 100% distanciel
 
 {{< icon name="clock" pack="fas" >}} 31 janvier 2022 après-midi (14:00 - 17:00)
 
-{{< icon name="map-marker-alt" pack="fas" >}} <a href="https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-0-introduction-a-lia-et-au-machine-learning?type=detailed">S'inscrire</a>
-
 {{< icon name="video" pack="fas" >}} le lien visio sera transmit aux participants inscrits
 
 
