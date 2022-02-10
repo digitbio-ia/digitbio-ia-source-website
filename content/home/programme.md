@@ -92,7 +92,7 @@ design:
   </tr>
   <tr>
    <td style="text-align:left;"> 27/06/22 </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 14:00 – 17:00 </td>
    <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 3</span> </td>
    <td style="text-align:left;">  </td>
