@@ -27,7 +27,6 @@ La séance aura lieu en 100% distanciel
 
 {{< icon name="video" pack="fas" >}} le lien visio sera transmit aux participants inscrits
 
-
 {{< /callout >}}
 
 
@@ -40,19 +39,9 @@ mention "mlmartin" >}}, {{< mention "jchiquet" >}}
 
 ## Vidéo
 
-à venir
+{{< youtube 3wqD8jtwD1U >}}
 
-<!-- {{< youtube rfscVS0vtbw >}} -->
+## Présentation
 
-<!-- 
-## Quiz, discussion
+{{% staticref "uploads/20223101_RALAIVOLA_INRAE.pdf" "newtab" %}} Télécharger la présentation{{% /staticref %}}
 
-{{< spoiler text="Quelle est la différence entre Machine Learning et Deep Learning?" >}}
-
-On en parle
-{{< /spoiler >}}
-
-{{< spoiler text="Is Python case-sensitive?" >}}
-Yes
-{{< /spoiler >}}
--->

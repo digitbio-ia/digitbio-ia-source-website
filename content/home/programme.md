@@ -91,7 +91,7 @@ design:
    <td style="text-align:left;"> <a href="sequences/concepts/s2_clustering">Apprentissage non supervisé de structures de réseaux écologiques</a> </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> juillet </td>
+   <td style="text-align:left;"> 27/06/22 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> distanciel </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #5BBCD6 !important;">Séance 3</span> </td>
@@ -100,7 +100,7 @@ design:
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 14:00 – 15:30 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Stéphanie Allassonnière </td>
@@ -108,7 +108,7 @@ design:
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
-   <td style="text-align:left;">  </td>
+   <td style="text-align:left;"> 16:00 – 17:00 </td>
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
    <td style="text-align:left;"> Olivier Gandrillon, Franck Picard </td>
