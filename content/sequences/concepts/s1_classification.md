@@ -22,7 +22,7 @@ La séance aura lieu en hybride, la partie présentielle étant [au 253](http://
 {{< icon name="map-marker-alt" pack="fas" >}} <a href="https://form.jotform.com/220392697469369">S'inscrire</a>
 
 
-{{< icon name="video" pack="fas" >}} le lien visio sera transmit aux participants inscrits
+{{< icon name="video" pack="fas" >}} le lien visio sera transmis aux participants inscrits
 
 
 {{< /callout >}}

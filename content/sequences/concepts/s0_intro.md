@@ -25,7 +25,7 @@ La séance aura lieu en 100% distanciel
 
 {{< icon name="clock" pack="fas" >}} 31 janvier 2022 après-midi (14:00 - 17:00)
 
-{{< icon name="video" pack="fas" >}} le lien visio sera transmit aux participants inscrits
+{{< icon name="video" pack="fas" >}} le lien visio sera transmis aux participants inscrits
 
 {{< /callout >}}
 

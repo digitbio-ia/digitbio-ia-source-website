@@ -15,11 +15,12 @@ tags:
 {{< callout note >}}
 Informations pratiques
 
-{{< icon name="clock" pack="fas" >}} juillet 2022
+La séance aura lieu en 100% distanciel
 
-{{< icon name="map-marker-alt" pack="fas" >}} lieu
+{{< icon name="clock" pack="fas" >}} 27 juin 2022 après-midi (14:00 - 17:00)
 
-{{< icon name="video" pack="fas" >}} lien visio
+{{< icon name="video" pack="fas" >}} le lien visio sera transmis aux participants inscrits
+
 
 {{< /callout >}}
 
