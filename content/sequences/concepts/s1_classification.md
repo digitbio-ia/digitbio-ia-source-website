@@ -27,16 +27,24 @@ La séance aura lieu en hybride, la partie présentielle étant [au 253](http://
 
 {{< /callout >}}
 
-
 ## Intervenants
 
 Focus : {{< mention "bhanczar" >}}
 
-*"De la régression logistique aux réseaux de neurones"*
+*"Comment faire des prédictions à partir de vos données biologiques grâce au Machine Learning ? De la régression logistique aux réseaux de neurones"*
 
 Binôme : {{< mention "emoebel" >}}, {{< mention "ffatmaoui" >}}
 
-*"Le deep learning et la cryo-tomographie électronique permettent l'identification et la localisation de nucléosomes in situ"*
+*"Explorer le paysage cellulaire avec le Deep Learning: Plongez à l'intérieur de la cellule et découvrez l'organisation des macromolécules."*
+
+
+## Avant la séance
+
+Pour introduire et compléter cette séance, deux cours à succès sont proposés sous forme de série de vidéo
+
+- [Le MOOC de Andrew Ng sur le machine learning](https://fr.coursera.org/learn/machine-learning#syllabus)
+- [Le Cours de Fei-Fei sur le deep learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+
 
 ## Vidéo
 
