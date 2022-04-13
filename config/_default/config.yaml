@@ -28,7 +28,11 @@ module:
 ############################
 ## ADVANCED
 ############################
-
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
