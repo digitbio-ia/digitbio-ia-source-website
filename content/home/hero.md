@@ -17,9 +17,8 @@ cta:
   label: 'Prochaine séance: 23 mai 2022'
   icon_pack: fas
   icon: play
-## cta_alt:
-##   url: 'https://form.jotform.com/220392697469369'
-##   label: "S'inscrire"
+cta_alt:
+  label: "S'inscrire"
 ---
 
 <small>
