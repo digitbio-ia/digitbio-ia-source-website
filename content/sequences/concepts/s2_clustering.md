@@ -29,11 +29,12 @@ La séance aura lieu en 100% distanciel
 
 Focus : {{< mention "cmaugis" >}}
 
-*"Du modèle de mélanges aux réseaux de neurones"*
-    
+
+*"Comment trouver des structures dans vos données biologiques  avec la classification non supervisée: méthodes de distance, modèles de mélange ou réseaux de neurones"*
+
 Binôme : {{< mention "sdonnet" >}}, {{< mention "fmassol" >}}
 
-*"Apprentissage non supervisé de structures de réseaux écologiques"*
+*"Apprentissage non supervisé de structures de graphes: en quoi l'analyse de réseaux aide à comprendre les interactions et l'organisation des réseaux écologiques"*
 
 ## Vidéo
 

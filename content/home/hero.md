@@ -13,13 +13,13 @@ design:
     gradient_end: '#fff'
     text_color_light: false
 cta:
-  url: 'sequences/concepts/s1_classification'
-  label: 'Prochaine séance: 7 avril 2022'
+  url: 'sequences/concepts/s2_clustering'
+  label: 'Prochaine séance: 23 mai 2022'
   icon_pack: fas
   icon: play
-cta_alt:
-  url: 'https://form.jotform.com/220392697469369'
-  label: "S'inscrire"
+## cta_alt:
+##   url: 'https://form.jotform.com/220392697469369'
+##   label: "S'inscrire"
 ---
 
 <small>
