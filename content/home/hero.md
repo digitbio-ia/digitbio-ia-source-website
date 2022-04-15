@@ -19,6 +19,7 @@ cta:
   icon: play
 cta_alt:
   label: "S'inscrire"
+  url: 'https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-2-du-modele-de-melanges-aux-reseaux-de-neurones?type=detailed'
 ---
 
 <small>

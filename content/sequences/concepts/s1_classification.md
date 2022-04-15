@@ -16,39 +16,32 @@ tags:
 {{< callout note >}}
 Informations pratiques
 
-La séance aura lieu en hybride, la partie présentielle étant [au 253](http://www.le253.fr)
-{{< icon name="clock" pack="fas" >}} 7 avril 2022 après-midi (14:00 - 17:00)
-
-{{< icon name="map-marker-alt" pack="fas" >}} <a href="https://form.jotform.com/220392697469369">S'inscrire</a>
-
-
-{{< icon name="video" pack="fas" >}} le lien visio sera transmis aux participants inscrits
-
+La séance a eu lieu le 7 avril 2022 après-midi (14:00 - 17:00)
 
 {{< /callout >}}
 
 ## Intervenants
 
-Focus : {{< mention "bhanczar" >}}
+**Focus :** {{< mention "bhanczar" >}}
 
 *"Comment faire des prédictions à partir de vos données biologiques grâce au Machine Learning ? De la régression logistique aux réseaux de neurones"*
 
-Binôme : {{< mention "emoebel" >}}, {{< mention "ffatmaoui" >}}
+{{< youtube oyHqYjzhW_8 >}}
+
+<br/>
+
+**Binôme :** {{< mention "emoebel" >}}, {{< mention "ffatmaoui" >}}
 
 *"Explorer le paysage cellulaire avec le Deep Learning: Plongez à l'intérieur de la cellule et découvrez l'organisation des macromolécules."*
 
+{{< youtube grVC4A80yOQ >}}
 
-## Avant la séance
+
+## Compléments
 
 Pour introduire et compléter cette séance, deux cours à succès sont proposés sous forme de série de vidéo
 
 - [Le MOOC de Andrew Ng sur le machine learning](https://fr.coursera.org/learn/machine-learning#syllabus)
 - [Le Cours de Fei-Fei sur le deep learning](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
-
-## Vidéo
-
-à venir
-
-<!-- {{< youtube rfscVS0vtbw >}} -->
 

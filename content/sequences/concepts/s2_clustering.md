@@ -18,6 +18,8 @@ Informations pratiques
 
 La séance aura lieu en 100% distanciel
 
+{{< icon name="map-marker-alt" pack="fas" >}} <a href="https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-2-du-modele-de-melanges-aux-reseaux-de-neurones?type=detailed">S'inscrire</a>
+
 {{< icon name="clock" pack="fas" >}} 23 mai 2022 après-midi (14:00 - 17:00)
 
 {{< icon name="video" pack="fas" >}} le lien visio sera transmis aux participants inscrits
