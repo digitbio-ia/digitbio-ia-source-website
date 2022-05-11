@@ -28,6 +28,8 @@ La séance a eu lieu le 7 avril 2022 après-midi (14:00 - 17:00)
 
 {{< youtube oyHqYjzhW_8 >}}
 
+{{% staticref "uploads/Presentation_Blaise_Hanczar.pdf" "newtab" %}} Télécharger la présentation{{% /staticref %}}
+
 <br/>
 
 **Binôme :** {{< mention "emoebel" >}}, {{< mention "ffatmaoui" >}}
