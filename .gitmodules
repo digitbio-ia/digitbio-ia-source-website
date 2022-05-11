@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = git@github.com:digitibio-ia/digitbio-ia.github.io.git
-	branch = main
+	url = https://github.com/digitbio-ia/digitbio-ia.github.io.git
+	branch = master
