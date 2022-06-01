@@ -13,13 +13,13 @@ design:
     gradient_end: '#fff'
     text_color_light: false
 cta:
-  url: 'sequences/concepts/s2_clustering'
-  label: 'Prochaine séance: 23 mai 2022'
+  url: 'sequences/concepts/s3_dimreduction'
+  label: 'Prochaine séance: 27 juin 2022'
   icon_pack: fas
   icon: play
 cta_alt:
   label: "S'inscrire"
-  url: 'https://app.livestorm.co/inrae/lia-en-sciences-du-vivant-seance-2-du-modele-de-melanges-aux-reseaux-de-neurones?type=detailed'
+  url: 'https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw'
 ---
 
 <small>

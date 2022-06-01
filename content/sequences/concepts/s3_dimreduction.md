@@ -17,10 +17,11 @@ Informations pratiques
 
 La séance aura lieu en 100% distanciel
 
+{{< icon name="map-marker-alt" pack="fas" >}} <a href="https://inrae-fr.zoom.us/webinar/register/WN_mKp7fjEUTqSFINaN-c_vCw">S'inscrire</a>
+
 {{< icon name="clock" pack="fas" >}} 27 juin 2022 après-midi (14:00 - 17:00)
 
 {{< icon name="video" pack="fas" >}} le lien visio sera transmis aux participants inscrits
-
 
 {{< /callout >}}
 
@@ -28,8 +29,11 @@ La séance aura lieu en 100% distanciel
 
 Focus : {{< mention "sallassonniere" >}}
 
+*"Identification de structure par réduction de dimension : de l’analyse en composantes principales aux auto-encodeurs variationnels"*
+
 Binôme : {{< mention "ogandrillon" >}}, {{< mention "fpicard" >}}
 
+*"Quelle est la dimension pertinente de l’espace d’expression des gènes?"*
 
 ## Vidéo
 

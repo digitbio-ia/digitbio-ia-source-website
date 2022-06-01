@@ -104,7 +104,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #F2AD00 !important;">Cours</span> </td>
    <td style="text-align:left;"> Stéphanie Allassonnière </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">De l’ACP au VAE</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction">De l’analyse en composantes principales aux auto-encodeurs variationnels</a> </td>
   </tr>
   <tr>
    <td style="text-align:left;">  </td>
@@ -112,7 +112,7 @@ design:
    <td style="text-align:left;">  </td>
    <td style="text-align:left;"> <span style=" font-weight: bold;    color: white !important;border-radius: 4px; padding-right: 4px; padding-left: 4px; background-color: #00A08A !important;">Étude de cas</span> </td>
    <td style="text-align:left;"> Olivier Gandrillon, Franck Picard </td>
-   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction"> TBA</a> </td>
+   <td style="text-align:left;"> <a href="sequences/concepts/s3_dimreduction"> Quelle est la dimension pertinente de l’espace d’expression des gènes? </a> </td>
   </tr>
 </tbody>
 </table>
