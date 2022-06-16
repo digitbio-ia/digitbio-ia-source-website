@@ -51,7 +51,7 @@ En savoir plus sur les Métaprogrammes : https://www.inrae.fr/nous-connaitre/met
 
 **DIGIT-BIO** -- Biologie numérique pour explorer et prédire le vivant a été lancé en mars 2021
 
-Voir la <a href="https://www.inrae.fr/en/about-us/metaprogrammes#digitbio">page web publique du metaprogramme</a> et la <a href="https://intranet.inrae.fr/metaprogrammes/Les-differents-MP/Les-MP-lances-depuis-2019/DIGIT-BIO">page intranet</a>.
+Voir la <a href="https://www6.inrae.fr/digitbio/">page web publique du metaprogramme</a> et la <a href="https://intranet.inrae.fr/metaprogrammes/Les-differents-MP/DIGIT-BIO">page intranet</a>.
 
 S'abonner à la liste de diffusion de Digit-Bio: https://groupes.renater.fr/sympa/info/digitbio
 

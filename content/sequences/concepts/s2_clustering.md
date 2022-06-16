@@ -34,13 +34,13 @@ Focus : {{< mention "cmaugis" >}}
 
 *"Comment trouver des structures dans vos données biologiques  avec la classification non supervisée: méthodes de distance, modèles de mélange ou réseaux de neurones"*
 
+{{< youtube HXhs5FopCho >}}
+
+<br/>
+
 Binôme : {{< mention "sdonnet" >}}, {{< mention "fmassol" >}}
 
 *"Apprentissage non supervisé de structures de graphes: en quoi l'analyse de réseaux aide à comprendre les interactions et l'organisation des réseaux écologiques"*
 
-## Vidéo
-
-à venir
-
-<!-- {{< youtube rfscVS0vtbw >}} -->
+{{< youtube F51PgM7Zjwg >}}
 
