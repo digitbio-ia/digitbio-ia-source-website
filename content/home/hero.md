@@ -31,7 +31,4 @@ La cellule d'animation IA de DIGIT-BIO propose un cycle de webinaires visant à
 
 </small>
 
-<!-- Ce page regroupe le programme, le matériel des conférences, le verbatim
-des  discussions  et  des   informations  utiles  pour  la  communauté
-scientifique du méta-programme DigitBio. -->
 
